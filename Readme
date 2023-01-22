@@ -1,2 +1,2 @@
-This project will utilize M5stack Core2, haptic feedback, and infrared ToF lasers to create a vision assist tool for visually impaired people. 
+This project utilizes an M5stack Core2, , a PAhub, vibration motors, and infrared ToF lasers to create a vision assist tool for visually impaired people. 
 In summary, the module will translate distance measurements into vibration at increasing/decreasing intensity. 
